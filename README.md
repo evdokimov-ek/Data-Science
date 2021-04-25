@@ -15,7 +15,7 @@
 Подобраны оптимальные гиперпараметры, проведено тестирование модели на адекватность.
 		</td>
 		<td>
-			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>
+			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>sklearn</code>
 		</td>
 	</tr>
 	<tr>
@@ -30,7 +30,7 @@
 Выявлены зависимости между наличием детей, семейного положения, уровнем дохода и цели на возврат кредита в срок.
 		</td>
 		<td>
-			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>math</code>, <code>scipy</code>
+			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>pymystem3</code>, <code>scipy</code>
 		</td>
 
 </table>

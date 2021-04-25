@@ -33,5 +33,4 @@
 			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>math</code>, <code>scipy</code>
 		</td>
 
-	</tr>
 </table>
